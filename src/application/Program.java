@@ -1,6 +1,5 @@
 package application;
 
-import java.io.InputStream;
 import java.util.Locale;
 import java.util.Scanner;
 
